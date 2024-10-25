@@ -1,4 +1,4 @@
-#O Papel Essencial do Líder Técnico de Dados na Era Digital#
+#O Papel Essencial do Líder Técnico de Dados na Era Digital
 
 Vivemos em uma era onde os dados são frequentemente chamados de "o novo petróleo". No entanto, para extrair valor real desses dados, precisamos de líderes técnicos de dados talentosos e apaixonados. Mas o que exatamente faz um líder técnico de dados e por que esse papel é tão crucial?
 
