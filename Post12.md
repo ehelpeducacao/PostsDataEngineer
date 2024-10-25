@@ -1,5 +1,6 @@
 
 **Olá, comunidade!**
+
 Hoje, quero compartilhar algumas reflexões sobre uma etapa crucial na gestão de dados em um data lake: a transformação. A etapa de transformação (ou transform) é fundamental para preparar os dados para análise, garantindo que estejam limpos, integrados e estruturados de maneira eficiente. Vamos explorar como abordar essa etapa de forma eficaz para maximizar o valor dos seus dados.
 Mas afinal de contas o que é a transformação? A transformação é uma das fases do processo ETL (Extract, Transform, Load) onde os dados brutos, coletados de diversas fontes, são limpos, normalizados, combinados e organizados para serem úteis e acessíveis para análises posteriores. No contexto de um data lake, essa etapa é essencial para converter dados não estruturados e semi-estruturados em formatos estruturados e prontos para análise.
 Antes de iniciar a transformação, é crucial entender os requisitos específicos do negócio. Quais são as perguntas que precisam ser respondidas? Quais são os objetivos de análise? Definir isso ajudará a direcionar o processo de transformação para atender às necessidades específicas. 
